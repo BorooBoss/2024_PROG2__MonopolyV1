@@ -1,0 +1,3 @@
+/mnt/c/Users/boris/Desktop/2.semester/PROG2/zadanie4/z4_project/cmake-build-debug/CMakeFiles/z4.dir
+/mnt/c/Users/boris/Desktop/2.semester/PROG2/zadanie4/z4_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/boris/Desktop/2.semester/PROG2/zadanie4/z4_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

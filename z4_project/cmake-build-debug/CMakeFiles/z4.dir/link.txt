@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -lm -g CMakeFiles/z4.dir/src/z4.c.o CMakeFiles/z4.dir/src/monopoly.c.o -o z4 
